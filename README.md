@@ -6,6 +6,9 @@ Original model data used in this analysis is stored on the UW atmos
 server, and is available upon request from the author, including all
 scripts required to process the data.  
 
+# Version Info
+* v0.1: Contains figures that correspond to submission of paper to _Mon. Wea. Rev._
+
 # Contact Info
 * Author: Christopher Jones
 * Email: christopher.r.jones@gmail.com
